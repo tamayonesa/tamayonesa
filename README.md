@@ -11,7 +11,7 @@ $$\textcolor{#dc143c}{\rule{820px}{4px}}$$
 
 <h3>Repositories</h3>
 
-$$\textcolor{#dc143c}{\rule{820px}{4px}}$$
+$$\textcolor{#dc143c}{\rule{825px}{4px}}$$
 
 <p align="center">
 <br>
