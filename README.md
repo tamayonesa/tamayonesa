@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/tamayonesa/tamayonesa"><img width="47%" alt="tamayonesa" src="https://egonzalezt.vercel.app//api/pin/?username=tamayonesa&repo=tamayonesa&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&border_color=dc143c&border_radius=10"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/tamayonesa/linux-kernel-report"><img width="47%" alt="linux-kernel-report" src="https://egonzalezt.vercel.app//api/pin/?username=tamayonesa&repo=linux-kernel-report&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&border_color=dc143c&border_radius=10"></a>
+  <a href="https://github.com/tamayonesa/Report-CrowdStrike-failure-of-July-2024"><img width="47%" alt="tamayonesa" src="https://egonzalezt.vercel.app//api/pin/?username=tamayonesa&repo=tamayonesa&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&border_color=dc143c&border_radius=10"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/tamayonesa/Report-CrowdStrike-failure-of-July-2024"><img width="47%" alt="linux-kernel-report" src="https://egonzalezt.vercel.app//api/pin/?username=tamayonesa&repo=Report-CrowdStrike-failure-of-July-2024&title_color=dc143c&icon_color=dc143c&text_color=c9d1d9&bg_color=0d1117&border_color=dc143c&border_radius=10"></a>
 </p>
 
 <br>
